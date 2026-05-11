@@ -1,6 +1,6 @@
 # Hi there, I'm Furkan! 👋
 
-### 👨‍💻 Full Stack Web Development Enthusiast
+### 👨‍💻 Computer Engineer & Full Stack Web Development Enthusiast
 I am currently on an intensive journey through **The Odin Project**, mastering the art of building functional, beautiful, and scalable web applications from scratch. I love turning complex problems into elegant code.
 
 ---
@@ -26,14 +26,6 @@ I am currently on an intensive journey through **The Odin Project**, mastering t
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
-
-### 🚀 The Odin Project Goals
-I am currently working through the **Full Stack JavaScript** path. My immediate focus areas include:
-- [ ] Mastering **Advanced React** patterns and state management.
-- [ ] Building robust APIs with **Node.js/Express**.
-- [ ] Deep diving into **Test Driven Development (TDD)** with Jest.
-- [ ] Implementing secure authentication systems.
-
 
 ### 📬 Connect with me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kvkfurkan)
